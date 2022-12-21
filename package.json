@@ -1,5 +1,5 @@
 {
-  "homepage": "https://edgar2808-chura.github.io/portafolio4/build",
+  "homepage": "https://edgar2808-chura.github.io/portafolio4/",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -30,6 +30,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+
   },
   "browserslist": {
     "production": [
