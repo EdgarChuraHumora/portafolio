@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portafolio4/build/static/css/main.7d676b3d.css",
+    "main.js": "/portafolio4/build/static/js/main.7ed586d5.js",
+    "static/js/496.5c98fd2f.chunk.js": "/portafolio4/build/static/js/496.5c98fd2f.chunk.js",
+    "static/media/projImg2 (2).png": "/portafolio4/build/static/media/projImg2 (2).d99e2799a5e40fd8a92f.png",
+    "static/media/pokedex1.png": "/portafolio4/build/static/media/pokedex1.e006c322f05ed10da9c1.png",
+    "static/media/djangoapp.png": "/portafolio4/build/static/media/djangoapp.71f71fcd29d5bb405434.png",
+    "static/media/avatar.png": "/portafolio4/build/static/media/avatar.efcafcddfaaae5cae467.png",
+    "static/media/bgg3.jpg": "/portafolio4/build/static/media/bgg3.b59edb8de0437c5aaa96.jpg",
+    "static/media/CV.pdf": "/portafolio4/build/static/media/CV.0e6c35bebded5bb7ae3e.pdf",
+    "static/media/CentraNo2-Bold.ttf": "/portafolio4/build/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portafolio4/build/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portafolio4/build/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/nxlogo.png": "/portafolio4/build/static/media/nxlogo.c85aea0db064ce5d165c.png",
+    "static/media/revicons.eot": "/portafolio4/build/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portafolio4/build/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portafolio4/build/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/portafolio4/build/static/media/nav-icon3.6e41b9d340ac8203770afdeeddafec84.svg",
+    "static/media/twitter.svg": "/portafolio4/build/static/media/twitter.28fdb6f2085e318f37e4e73147c59d88.svg",
+    "index.html": "/portafolio4/build/index.html",
+    "static/media/nav-icon1.svg": "/portafolio4/build/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "main.7d676b3d.css.map": "/portafolio4/build/static/css/main.7d676b3d.css.map",
+    "main.7ed586d5.js.map": "/portafolio4/build/static/js/main.7ed586d5.js.map",
+    "496.5c98fd2f.chunk.js.map": "/portafolio4/build/static/js/496.5c98fd2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d676b3d.css",
+    "static/js/main.7ed586d5.js"
+  ]
+}
